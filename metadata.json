@@ -1,0 +1,6 @@
+{
+  "name": "AutoImport EU",
+  "description": "Profesjonalny import samochodów z Chin, USA i Korei Południowej do Europy. Kompleksowa obsługa, formalności i transport door-to-door.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
